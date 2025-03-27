@@ -10,6 +10,7 @@
 .complete { background: #99ff00; }
 .partial { background: #ffff66; }
 .incomplete { background: #ff0066; }
+.withdrawn { background: #cccccc; }
 .pua { background: #faf0ff; }
   body{
      font-family:pixenby;
@@ -108,7 +109,7 @@ There are some test pages <a href="testpages">here</a>.
         <td>0 BMP</td>
         <td>0600..06FF</td>
         <td>Arabic</td>
-        <td class="partial">partial</td>
+        <td class="partial">Partial</td>
     </tr>
     <tr>
         <td>0 BMP</td>
@@ -144,13 +145,13 @@ There are some test pages <a href="testpages">here</a>.
         <td>0 BMP</td>
         <td>0840..085F</td>
         <td>Mandaic</td>
-        <td class="partial">Partial</td>
+        <td class="incomplete">Empty</td>
     </tr>
     <tr>
         <td>0 BMP</td>
         <td>0860..086F</td>
         <td>Syriac Supplement</td>
-        <td class="partial">Partial</td>
+        <td class="incomplete">Empty</td>
     </tr>
     <tr>
         <td>0 BMP</td>
@@ -264,7 +265,7 @@ There are some test pages <a href="testpages">here</a>.
         <td>0 BMP</td>
         <td>1200..137F</td>
         <td>Ethiopic</td>
-        <td class="incomplete">Empty</td>
+        <td class="partial">Partial</td>
     </tr>
     <tr>
         <td>0 BMP</td>
@@ -312,7 +313,7 @@ There are some test pages <a href="testpages">here</a>.
         <td>0 BMP</td>
         <td>1740..175F</td>
         <td>Buhid</td>
-        <td class="complete">complete</td>
+        <td class="complete">Complete</td>
     </tr>
     <tr>
         <td>0 BMP</td>
@@ -366,7 +367,7 @@ There are some test pages <a href="testpages">here</a>.
         <td>0 BMP</td>
         <td>1A00..1A1F</td>
         <td>Buginese</td>
-        <td class="incomplete">Empty</td>
+        <td class="complete">Complete</td>
     </tr>
     <tr>
         <td>0 BMP</td>
@@ -570,7 +571,7 @@ There are some test pages <a href="testpages">here</a>.
         <td>0 BMP</td>
         <td>27C0..27EF</td>
         <td>Miscellaneous Mathematical Symbols-A</td>
-        <td class="complete">Complete</td>
+        <td class="incomplete">Empty</td>
     </tr>
     <tr>
         <td>0 BMP</td>
@@ -594,7 +595,7 @@ There are some test pages <a href="testpages">here</a>.
         <td>0 BMP</td>
         <td>2980..29FF</td>
         <td>Miscellaneous Mathematical Symbols-B</td>
-        <td class="partial">Partial</td>
+        <td class="incomplete">Empty</td>
     </tr>
     <tr>
         <td>0 BMP</td>
@@ -636,7 +637,7 @@ There are some test pages <a href="testpages">here</a>.
         <td>0 BMP</td>
         <td>2D30..2D7F</td>
         <td>Tifinagh</td>
-        <td class="partial">Partial</td>
+        <td class="incomplete">Empty</td>
     </tr>
     <tr>
         <td>0 BMP</td>
@@ -660,13 +661,13 @@ There are some test pages <a href="testpages">here</a>.
         <td>0 BMP</td>
         <td>2E80..2EFF</td>
         <td>CJK Radicals Supplement</td>
-        <td class="partial">Partial</td>
+        <td class="incomplete">Empty</td>
     </tr>
     <tr>
         <td>0 BMP</td>
         <td>2F00..2FDF</td>
         <td>Kangxi Radicals</td>
-        <td class="partial">Partial</td>
+        <td class="incomplete">Empty</td>
     </tr>
     <tr>
         <td>0 BMP</td>
@@ -684,43 +685,43 @@ There are some test pages <a href="testpages">here</a>.
         <td>0 BMP</td>
         <td>3040..309F</td>
         <td>Hiragana</td>
-        <td class="partial">Partial</td>
+        <td class="complete">Complete</td>
     </tr>
     <tr>
         <td>0 BMP</td>
         <td>30A0..30FF</td>
         <td>Katakana</td>
-        <td class="partial">Partial</td>
+        <td class="complete">Complete</td>
     </tr>
     <tr>
         <td>0 BMP</td>
         <td>3100..312F</td>
         <td>Bopomofo</td>
-        <td class="partial">Partial</td>
+        <td class="incomplete">Empty</td>
     </tr>
     <tr>
         <td>0 BMP</td>
         <td>3130..318F</td>
         <td>Hangul Compatibility Jamo</td>
-        <td class="partial">Partial</td>
+        <td class="incomplete">Empty</td>
     </tr>
     <tr>
         <td>0 BMP</td>
         <td>3190..319F</td>
         <td>Kanbun</td>
-        <td class="complete">Complete</td>
+        <td class="incomplete">Empty</td>
     </tr>
     <tr>
         <td>0 BMP</td>
         <td>31A0..31BF</td>
         <td>Bopomofo Extended</td>
-        <td class="partial">Partial</td>
+        <td class="incomplete">Empty</td>
     </tr>
     <tr>
         <td>0 BMP</td>
         <td>31C0..31EF</td>
         <td>CJK Strokes</td>
-        <td class="partial">Partial</td>
+        <td class="incomplete">Empty</td>
     </tr>
     <tr>
         <td>0 BMP</td>
@@ -732,13 +733,13 @@ There are some test pages <a href="testpages">here</a>.
         <td>0 BMP</td>
         <td>3200..32FF</td>
         <td>Enclosed CJK Letters and Months</td>
-        <td class="incomplete">Empty</td>
+        <td class="partial">Partial</td>
     </tr>
     <tr>
         <td>0 BMP</td>
         <td>3300..33FF</td>
         <td>CJK Compatibility</td>
-        <td class="incomplete">Empty</td>
+        <td class="partial">Partial</td>
     </tr>
     <tr>
         <td>0 BMP</td>
@@ -756,7 +757,7 @@ There are some test pages <a href="testpages">here</a>.
         <td>0 BMP</td>
         <td>4E00..9FFF</td>
         <td>CJK Unified Ideographs</td>
-        <td class="incomplete">Empty</td>
+        <td>Japanese</td>
     </tr>
     <tr>
         <td>0 BMP</td>
@@ -786,7 +787,7 @@ There are some test pages <a href="testpages">here</a>.
         <td>0 BMP</td>
         <td>A640..A69F</td>
         <td>Cyrillic Extended-B</td>
-        <td class="partial">Partial</td>
+        <td class="incomplete">Empty</td>
     </tr>
     <tr>
         <td>0 BMP</td>
@@ -858,7 +859,7 @@ There are some test pages <a href="testpages">here</a>.
         <td>0 BMP</td>
         <td>A980..A9DF</td>
         <td>Javanese</td>
-        <td class="incomplete">Empty</td>
+        <td class="partial">Partial</td>
     </tr>
     <tr>
         <td>0 BMP</td>
@@ -1139,7 +1140,7 @@ There are some test pages <a href="testpages">here</a>.
     <tr>
         <td>0 BMP</td>
         <td>E650..E67F</td>
-        <td>Sylabica</td>
+        <td>Sylabitsa</td>
         <td class="complete">Complete</td>
     </tr>
     <tr>
@@ -1236,7 +1237,7 @@ There are some test pages <a href="testpages">here</a>.
         <td>0 BMP</td>
         <td>EB40..EB5F</td>
         <td>Standard Galactic</td>
-        <td class="incomplete">Empty</td>
+        <td class="complete">Complete</td>
     </tr>
     <tr>
         <td>0 BMP</td>
@@ -1390,6 +1391,12 @@ There are some test pages <a href="testpages">here</a>.
     </tr>
     <tr>
         <td>0 BMP</td>
+        <td>F440..F48F</td>
+        <td>Bunga Mas Reyvan</td>
+        <td class="incomplete">Empty</td>
+    </tr>
+    <tr>
+        <td>0 BMP</td>
         <td>F4C0..F4EF</td>
         <td>Ath</td>
         <td class="complete">Complete</td>
@@ -1422,7 +1429,7 @@ There are some test pages <a href="testpages">here</a>.
         <td>0 BMP</td>
         <td>F580..F58F</td>
         <td>Geomantic Figures</td>
-        <td class="complete">Complete</td>
+        <td class="withdrawn">Withdrawn</td>
     </tr>
     <tr>
         <td>0 BMP</td>
@@ -1542,7 +1549,7 @@ There are some test pages <a href="testpages">here</a>.
         <td>1 SMP</td>
         <td>10000..1007F</td>
         <td>Linear B Syllabary</td>
-        <td class="partial">Partial</td>
+        <td class="incomplete">Empty</td>
     </tr>
     <tr>
         <td>1 SMP</td>
@@ -1662,6 +1669,12 @@ There are some test pages <a href="testpages">here</a>.
         <td>1 SMP</td>
         <td>10570..105BF</td>
         <td>Vithkuqi</td>
+        <td class="incomplete">Empty</td>
+    </tr>
+    <tr>
+        <td>1 SMP</td>
+        <td>105C0..105FF</td>
+        <td>Todhri</td>
         <td class="incomplete">Empty</td>
     </tr>
     <tr>
@@ -1798,6 +1811,12 @@ There are some test pages <a href="testpages">here</a>.
     </tr>
     <tr>
         <td>1 SMP</td>
+        <td>10D40..10D8F</td>
+        <td>Garay</td>
+        <td class="incomplete">Empty</td>
+    </tr>
+    <tr>
+        <td>1 SMP</td>
         <td>10E60..10E7F</td>
         <td>Rumi Numeral Symbols</td>
         <td class="incomplete">Empty</td>
@@ -1912,6 +1931,12 @@ There are some test pages <a href="testpages">here</a>.
     </tr>
     <tr>
         <td>1 SMP</td>
+        <td>11380..113FF</td>
+        <td>Tulu-Tigalari</td>
+        <td class="incomplete">Empty</td>
+    </tr>
+    <tr>
+        <td>1 SMP</td>
         <td>11400..1147F</td>
         <td>Newa</td>
         <td class="incomplete">Empty</td>
@@ -1944,6 +1969,12 @@ There are some test pages <a href="testpages">here</a>.
         <td>1 SMP</td>
         <td>11680..116CF</td>
         <td>Takri</td>
+        <td class="incomplete">Empty</td>
+    </tr>
+    <tr>
+        <td>1 SMP</td>
+        <td>116D0..116FF</td>
+        <td>Myanmar Extended-C</td>
         <td class="incomplete">Empty</td>
     </tr>
     <tr>
@@ -2004,6 +2035,12 @@ There are some test pages <a href="testpages">here</a>.
         <td>1 SMP</td>
         <td>11B00..11B5F</td>
         <td>Devanagari Extended-A</td>
+        <td class="incomplete">Empty</td>
+    </tr>
+    <tr>
+        <td>1 SMP</td>
+        <td>11BC0..11BFF</td>
+        <td>Sunuwar</td>
         <td class="incomplete">Empty</td>
     </tr>
     <tr>
@@ -2092,8 +2129,20 @@ There are some test pages <a href="testpages">here</a>.
     </tr>
     <tr>
         <td>1 SMP</td>
+        <td>13460..143FFF</td>
+        <td>Egyptian Hieroglyphs Extended-A</td>
+        <td class="incomplete">Empty</td>
+    </tr>
+    <tr>
+        <td>1 SMP</td>
         <td>14400..1467F</td>
         <td>Anatolian Hieroglyphs</td>
+        <td class="incomplete">Empty</td>
+    </tr>
+    <tr>
+        <td>1 SMP</td>
+        <td>16100..1613F</td>
+        <td>Gurung Khema</td>
         <td class="incomplete">Empty</td>
     </tr>
     <tr>
@@ -2124,6 +2173,12 @@ There are some test pages <a href="testpages">here</a>.
         <td>1 SMP</td>
         <td>16B00..16B8F</td>
         <td>Pahawh Hmong</td>
+        <td class="incomplete">Empty</td>
+    </tr>
+    <tr>
+        <td>1 SMP</td>
+        <td>16D40..16D7F</td>
+        <td>Kirat Rai</td>
         <td class="incomplete">Empty</td>
     </tr>
     <tr>
@@ -2208,6 +2263,18 @@ There are some test pages <a href="testpages">here</a>.
         <td>1 SMP</td>
         <td>1BCA0..1BCAF</td>
         <td>Shorthand Format Controls</td>
+        <td class="complete">Complete</td>
+    </tr>
+    <tr>
+        <td>1 SMP</td>
+        <td>1CC00..1CEBF</td>
+        <td>Symbols for Legacy Computing Supplement</td>
+        <td class="complete">Complete</td>
+    </tr>
+    <tr>
+        <td>1 SMP</td>
+        <td>1CEC0..1CEFF</td>
+        <td>Miscellaneous Symbols Supplement</td>
         <td class="complete">Complete</td>
     </tr>
     <tr>
@@ -2311,6 +2378,12 @@ There are some test pages <a href="testpages">here</a>.
         <td>1E4D0..1E4FF</td>
         <td>Nag Mundari</td>
         <td class="partial">Partial</td>
+    </tr>
+    <tr>
+        <td>1 SMP</td>
+        <td>1E5D0..1E5FF</td>
+        <td>Ol Onal</td>
+        <td class="complete">Complete</td>
     </tr>
     <tr>
         <td>1 SMP</td>
@@ -2530,32 +2603,68 @@ There are some test pages <a href="testpages">here</a>.
     </tr>
     <tr>
         <td>15 PUA-A</td>
-        <td>F1A00..F1A3F</td>
-        <td>Homestuck Symbols</td>
-        <td class="incomplete">Empty</td>
-    </tr>
-    <tr>
-        <td>15 PUA-A</td>
         <td>F1B00..F1C3F</td>
         <td>Shidinn</td>
         <td class="incomplete">Empty</td>
     </tr>
     <tr>
         <td>15 PUA-A</td>
-        <td>F1C40..F1CFF</td>
-        <td>Whovian Symbols</td>
+        <td>F1C40..F1C7F</td>
+        <td>Titi Pula</td>
         <td class="incomplete">Empty</td>
     </tr>
     <tr>
         <td>15 PUA-A</td>
-        <td>F1DD0..F1DEF</td>
-        <td>Enochian</td>
+        <td>F1C80..F1C9F</td>
+        <td>Sitelen Pona Radicals</td>
         <td class="incomplete">Empty</td>
     </tr>
     <tr>
         <td>15 PUA-A</td>
-        <td>F2260..F23CF</td>
-        <td>Homestuck Symbols Suppliment</td>
+        <td>F2000..F267F</td>
+        <td>Sadalian</td>
+        <td class="incomplete">Empty</td>
+    </tr>
+    <tr>
+        <td>15 PUA-A</td>
+        <td>F2680..F26AF</td>
+        <td>Quikscript</td>
+        <td class="incomplete">Empty</td>
+    </tr>
+    <tr>
+        <td>15 PUA-A</td>
+        <td>F2700..F27FF</td>
+        <td>Hacm</td>
+        <td class="incomplete">Empty</td>
+    </tr>
+    <tr>
+        <td>15 PUA-A</td>
+        <td>F2800..F282F</td>
+        <td>Liparxe</td>
+        <td class="incomplete">Empty</td>
+    </tr>
+    <tr>
+        <td>15 PUA-A</td>
+        <td>F2830..F289F</td>
+        <td>Shaleian</td>
+        <td class="incomplete">Empty</td>
+    </tr>
+    <tr>
+        <td>15 PUA-A</td>
+        <td>F28A0..F28DF</td>
+        <td>Zbalermorna</td>
+        <td class="incomplete">Empty</td>
+    </tr>
+    <tr>
+        <td>15 PUA-A</td>
+        <td>F2900..F295F</td>
+        <td>Visible Speech Extended</td>
+        <td class="incomplete">Empty</td>
+    </tr>
+    <tr>
+        <td>15 PUA-A</td>
+        <td>F4000..F244F</td>
+        <td>Youkinese</td>
         <td class="incomplete">Empty</td>
     </tr>
     <tr>
@@ -2592,6 +2701,12 @@ There are some test pages <a href="testpages">here</a>.
         <td>15 PUA-A</td>
         <td>FFC00..FFCFF</td>
         <td>Symbols for Legacy Computing Appendix</td>
+        <td class="incomplete">Empty</td>
+    </tr>
+    <tr>
+        <td>16 PUA-B</td>
+        <td>100000..10017F</td>
+        <td>Reversed Video</td>
         <td class="incomplete">Empty</td>
     </tr>
 </table>
