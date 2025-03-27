@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="viewport" content="initial-scale=.75">
+		<title>𝗙𝗢𝗨𝗥𝗢𝗛𝗙𝗢𝗨𝗥</title>
+		<script src="puke.js"></script>
+		<script type="application/javascript">
+			let playing = false;
+			window.onclick = function() {
+				if(!playing) {
+					playing=true;
+					const music = document.createElement('iframe');
+					music.type="text/html";
+					music.src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/175930637&color=%23ff5500&auto_play=true&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=false";
+					music.frameborder="0";
+					music.allow="autoplay";
+					music.style="display:none;";
+					document.body.appendChild(music);
+					music.onload = function() {
+						document.getElementById('strider').className = 'strider';
+					}
+				}
+			}
+			let p;
+
+			window.onresize = function() {
+				p.resize();
+			}
+
+			window.onload = function(e) {
+				canvas = document.getElementById('canvas');
+				p = puke(canvas, window);
+				p.load();
+				window.onresize(e);
+				for(const pathname of ["/404", "/404.html"]) {
+					if(location.pathname === pathname) {
+						canvas.innerHTML = "(and you definitely aren't)";
+					}
+				}
+			}
+		</script>
+		<link href="bb.css" rel="stylesheet" />
+		<style type="text/css">
+      @font-face { font-family: "Fairfax HD"; src: url("FairfaxHD.ttf"); }
+			html, body { margin: 0; padding: 0; color: #ccc; background: #000; }
+			body { font-family: "Fairfax HD", sans-serif; font-size: 13px; }
+			div { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); }
+			.fourohfour { display: inline-block; position: relative; font-size: 404%; left: 50%; transform: translateX(-50%); }
+			.fourohfour:before, .fourohfour:after {
+				position: absolute;
+				content: attr(data-text);
+			}
+			.fourohfour:before {
+				left: 2px;
+				text-shadow: -1px 0 red;
+				background: #000;
+				animation: fourohfour 2s infinite linear alternate-reverse;
+			}
+			.fourohfour:after {
+				clip: rect(20px, 400px, 30px, 0);
+				left: -2px;
+				text-shadow: -1px 0 green;
+				background: #000;
+				animation: fourohfourtwo 2s infinite linear alternate-reverse;
+			}
+			@keyframes fourohfourtwo {
+				0% { clip: rect(10px, 400px, 15px, 0); }
+				20% { clip: rect(400px, 400px, 41px, 0); }
+				40% { clip: rect(25px, 400px, 26px, 0); }
+				60% { clip: rect(10px, 400px, 15px, 0); }
+				80% { clip: rect(26px, 400px, 29px, 0); }
+				100% { clip: rect(40px, 400px, 45px, 0); }
+			}
+			@keyframes fourohfour {
+				0% { clip: rect(30px, 400px, 40px, 0); }
+				20% { clip: rect(26px, 400px, 28px, 0); }
+				40% { clip: rect(15px, 400px, 100px, 0); }
+				60% { clip: rect(40px, 400px, 45px, 0); }
+				80% { clip: rect(10px, 400px, 18px, 0); }
+				100% { clip: rect(40px, 400px, 50px, 0); }
+			}
+			.strider {
+				text-align: center;
+				font-size: 101%;
+				opacity: 0;
+				animation: fadein 2625ms ease-in 2250ms forwards;
+			}
+			.strider:after {
+				position: absolute;
+				overflow:hidden;
+				display: inline-block;
+				vertical-align: bottom;
+				animation: strider steps(4,end) 1875ms 9750ms infinite;
+				content: "...";
+				width: 0;
+				margin-right: 1.26em;
+			}
+			.onering { visibility: hidden; }
+			@keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
+			@keyframes strider { to { width: 1.26em; margin-right: 0; } }
+			
+			canvas { position: absolute; }
+				
+			@media only screen and (hover: none) {
+				body {
+					font-size: 125% !important;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<div>
+			<h1 class="fourohfour" data-text="404">404</h1>
+			<h4 class="onering" id="strider">Not all those who wander are lost</h4>
+		</div>
+		<canvas id="canvas">(but you definitely are)</canvas>
+	</body>
+</html>
