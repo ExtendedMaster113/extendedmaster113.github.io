@@ -33,3 +33,10 @@
     font-family: "Fairfax HD";
     src: url("https://raw.githubusercontent.com/kreativekorp/open-relay/refs/heads/main/FairfaxHD/FairfaxHD.ttf")
 }
+@font-face {
+    font-family: "Fairfax";
+    src: url("https://raw.githubusercontent.com/kreativekorp/open-relay/refs/heads/main/Fairfax/Fairfax.ttf")
+}
+body{
+     font-family: "Fairfax HD","Fairfax","Noto Sans JP",sans-serif;
+}
