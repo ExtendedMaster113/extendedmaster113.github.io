@@ -1,8 +1,25 @@
-# Search
+# Pages-A
+* ANGERME
+* Berryz Kobo
+* BEYOOOOONDS
 * Braille Extended ([UCSUR](https://www.kreativekorp.com/ucsur/charts/Braille_Extended_UCSUR.pdf))
 * [CJK Unified Ideographs](https://extendedmaster113.github.io/mana)
+* Country Girls
+* C-ute
+* Evening Musume
 * [Graflect](https://maycxc.github.io/prop.html)
-* [Kokoro Imase](https://extendedmaster113.github.io/kokoro)
+* Imase
+* Inori Minase
+* Juice=Juice
+* Kobushi Factory
+* Love Live!
+* Medefaidrin
 * Morning Musume
+* OCHA NORMA
+* Rosy Chronicle
+* Ryurey House
 * Syai ([CSUR](http://www.evertype.com/standards/csur/syai.html) and *UCSUR*)
-* [??????](https://extendedmaster113.github.io/112)
+* Tsubaki Factory
+* Unicode
+* [???](https://extendedmaster113.github.io/kokoro)
+* [???](https://extendedmaster113.github.io/112)
