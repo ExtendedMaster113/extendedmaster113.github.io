@@ -7,25 +7,26 @@
 * [CJK Unified Ideographs](https://extendedmaster113.github.io/mana)
 * Country Girls
 * C-ute
+* Digdaya TV/Garuda TV
+* Dukuma Musume/Rosy Chronicle
 * Imase
 * Inori Minase
 * Juice=Juice
 * Kobushi Factory
 * Love Live!
-* Medefaidrin
 * Minecraft
+* Minum Vit
 * Morning Musume
-* OCHA NORMA
+* Nimazid Musume/OCHA NORMA
+* Nusantara TV
+* Oberi Okaime/Medefaidrin
 * Roblox
-* Rosy Chronicle
 * Ryurey House
+* SEA Today
 * Slai O'lai
-* Syai ([CSUR](http://www.evertype.com/standards/csur/syai.html) and *UCSUR*)
-* Toki Pona ([Sitelen Pona](https://jan-ne.github.io/tp/sp))
 * Tsubaki Factory
-* [Tungskrat](https://maycxc.github.io/prop.html) (now Graflect)
-* Vit
-* Xbox
+* TVRI
+* [Tungskrat/Graflect](https://maycxc.github.io/prop.html)
 * [Zbalermorna](https://jackhumbert.github.io/zbalermorna/)
 * [???](https://extendedmaster113.github.io/kokoro)
 * [???](https://extendedmaster113.github.io/112)
