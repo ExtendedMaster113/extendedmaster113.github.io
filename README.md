@@ -1,5 +1,6 @@
 # Pages-A
 * ANGERME
+* Angry Birds
 * Berryz Kobo
 * BEYOOOOONDS
 * Braille Extended ([UCSUR](https://www.kreativekorp.com/ucsur/charts/Braille_Extended_UCSUR.pdf))
@@ -18,8 +19,10 @@
 * OCHA NORMA
 * Rosy Chronicle
 * Ryurey House
+* Slai O'lai
 * Syai ([CSUR](http://www.evertype.com/standards/csur/syai.html) and *UCSUR*)
+* Toki Pona ([Sitelen Pona](https://jan-ne.github.io/tp/sp))
 * Tsubaki Factory
-* Unicode
+* [Zbalermorna](https://jackhumbert.github.io/zbalermorna/)
 * [???](https://extendedmaster113.github.io/kokoro)
 * [???](https://extendedmaster113.github.io/112)
