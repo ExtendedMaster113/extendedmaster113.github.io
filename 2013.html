@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Floor ID and Password Input</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+    .display {
+      width: 100%;
+      font-size: 1.5em;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+    .keyboard {
+      display: grid;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+    .floor-keys {
+      grid-template-columns: repeat(5, 60px);
+    }
+    .pass-keys {
+      grid-template-columns: repeat(3, 60px);
+    }
+    .key {
+      padding: 15px;
+      background-color: #eee;
+      border: 1px solid #ccc;
+      text-align: center;
+      font-weight: bold;
+      cursor: pointer;
+      border-radius: 6px;
+    }
+    .key:hover {
+      background-color: #ddd;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="section">
+    <h2>Floor ID</h2>
+    <input type="text" id="floorDisplay" class="display" readonly>
+    <div class="keyboard floor-keys">
+      <!-- Floor ID keys -->
+      <div class="key" data-char="0">0</div>
+      <div class="key" data-char="1">1</div>
+      <div class="key" data-char="2">2</div>
+      <div class="key" data-char="3">3</div>
+      <div class="key" data-char="4">4</div>
+      <div class="key" data-char="5">5</div>
+      <div class="key" data-char="6">6</div>
+      <div class="key" data-char="7">7</div>
+      <div class="key" data-char="8">8</div>
+      <div class="key" data-char="9">9</div>
+      <div class="key" data-char="-">-</div>
+      <div class="key" data-char="B">B</div>
+      <div class="key" data-char="G">G</div>
+      <div class="key" data-char="L">L</div>
+      <div class="key" data-char="M">M</div>
+      <div class="key" data-char="P">P</div>
+      <div class="key" data-char="R">R</div>
+      <div class="key" data-action="backspace">←</div>
+      <div class="key" data-action="enter">⏎</div>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Password</h2>
+    <input type="text" id="passDisplay" class="display" readonly>
+    <div class="keyboard pass-keys">
+      <!-- Password keys -->
+      <div class="key" data-char="7">7</div>
+      <div class="key" data-char="8">8</div>
+      <div class="key" data-char="9">9</div>
+      <div class="key" data-char="4">4</div>
+      <div class="key" data-char="5">5</div>
+      <div class="key" data-char="6">6</div>
+      <div class="key" data-char="1">1</div>
+      <div class="key" data-char="2">2</div>
+      <div class="key" data-char="3">3</div>
+      <div class="key" data-action="backspace">←</div>
+      <div class="key" data-char="0">0</div>
+      <div class="key" data-action="enter">⏎</div>
+    </div>
+  </div>
+
+  <script>
+    const floorDisplay = document.getElementById('floorDisplay');
+    const passDisplay = document.getElementById('passDisplay');
+
+    document.querySelectorAll('.floor-keys .key').forEach(key => {
+      key.onclick = () => handleKeyPress(key, floorDisplay);
+    });
+
+    document.querySelectorAll('.pass-keys .key').forEach(key => {
+      key
