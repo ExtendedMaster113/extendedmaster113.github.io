@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Field Input Form</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+    }
+
+    label {
+      display: block;
+      margin-top: 10px;
+    }
+
+    input {
+      padding: 8px;
+      font-size: 16px;
+      width: 100%;
+      box-sizing: border-box;
+      margin-top: 5px;
+    }
+
+    .masked {
+      font-family: monospace;
+    }
+  </style>
+</head>
+<body>
+  <form id="loginForm">
+    <label for="userId">ID:</label>
+    <input type="text" id="userId" class="masked" maxlength="11" minlength="6" oninput="updateMaskedId()" required>
+
+    <label for="password">Password:</label>
+    <input type="password" id="password" maxlength="11" minlength="6" required>
+
+    <button type="submit">Submit</button>
+  </form>
+
+  <script>
+    function updateMaskedId() {
+      const input = document.getElementById("userId");
+      let value = input.value;
+
+      if (value.length > 11) value = value.substring(0, 11);
+      
+      let masked = "";
+      for (let i = 0; i < value.length; i++) {
+        if (i < 3 || i >= 6) {
+          masked += value[i];
+        } else {
+          masked += "*";
+        }
+      }
+
+      input.dataset.realValue = value;
+      input.value = masked;
+    }
+
+    document.getElementById("userId").addEventListener("focus", function () {
+      if (this.dataset.realValue) {
+        this.value = this.dataset.realValue;
+      }
+    });
+
+    document.getElementById("userId").addEventListener("blur", function () {
+      updateMaskedId();
+    });
+
+    document.getElementById("loginForm").addEventListener("submit", function (e) {
+      e.preventDefault();
+      const idField = document.getElementById("userId");
+      const password = document.getElementById("password").value;
+      const userId = idField.dataset.realValue || idField.value;
+
+      if (userId.length >= 6 && userId.length <= 11 && password.length >= 6 && password.length <= 11) {
+        alert(`Submitted!\nID: ${userId}\nPassword: ${'*'.repeat(password.length)}`);
+      } else {
+        alert("ID and Password must be 6 to 11 characters long.");
+      }
+    });
+  </script>
+</body>
+</html>
