@@ -100,4 +100,22 @@
     });
 
     document.querySelectorAll('.pass-keys .key').forEach(key => {
-      key
+      key.onclick = () => handleKeyPress(key, passDisplay);
+    });
+
+    function handleKeyPress(key, display) {
+      const char = key.dataset.char;
+      const action = key.dataset.action;
+
+      if (action === 'backspace') {
+        display.value = display.value.slice(0, -1);
+      } else if (action === 'enter') {
+        alert(`Entered: ${display.value}`);
+      } else if (char) {
+        display.value += char;
+      }
+    }
+  </script>
+
+</body>
+</html>
