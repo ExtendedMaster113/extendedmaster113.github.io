@@ -74,6 +74,15 @@
   </div>
 
   <div class="section">
+    <h2>Floor Name</h2>
+    <input type="text" id="floorNameDisplay" class="display">
+    <div class="keyboard flrn-keys">
+      <div class="key" data-action="backspace">←</div>
+      <div class="key" data-action="enter">⏎</div>
+    </div>
+  </div>
+
+  <div class="section">
     <h2>Password</h2>
     <input type="text" id="passDisplay" class="display" readonly>
     <div class="keyboard pass-keys">
@@ -96,6 +105,7 @@
   <script>
     const floorDisplay = document.getElementById('floorDisplay');
     const passDisplay = document.getElementById('passDisplay');
+    const floorNameDisplay = document.getElementById('floorNameDisplay');
 
     document.querySelectorAll('.floor-keys .key').forEach(key => {
       key.onclick = () => handleKeyPress(key, floorDisplay);
@@ -103,6 +113,10 @@
 
     document.querySelectorAll('.pass-keys .key').forEach(key => {
       key.onclick = () => handleKeyPress(key, passDisplay);
+    });
+
+    document.querySelectorAll('.flrn-keys .key').forEach(key => {
+      key.onclick = () => handleKeyPress(key, floorNameDisplay);
     });
 
     function handleKeyPress(key, display) {
