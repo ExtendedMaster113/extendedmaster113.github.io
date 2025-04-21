@@ -6,7 +6,9 @@ Number | Logo | Name
 -- | -- | --
 1 | ![Tak berjudul762A40](https://github.com/user-attachments/assets/6fa847d6-31e6-48e1-8b98-32849446a2ee) | Inori Minase Channel 1
 2 | ![Tak berjudul762A42](https://github.com/user-attachments/assets/2726eb18-d406-4630-95d7-8f14c97b472b) | Inori Minase Channel 2
-7 | ![Tak berjudul762A21 (1)](https://github.com/user-attachments/assets/9f6aa415-0554-48c6-8e5d-2f43da09f920) | Momoiro Clover Z
+4 | ![Tak berjudul762A3](https://github.com/user-attachments/assets/794438e3-ed98-4ccd-b8df-b6bc21fd1f44) | Morning Musume
+5 | ![Tak berjudul762A4](https://github.com/user-attachments/assets/e17fad1e-dc15-4a56-b4bb-46df9d7577b3) | S/mileage
+6 | ![Tak berjudul762A21 (1)](https://github.com/user-attachments/assets/9f6aa415-0554-48c6-8e5d-2f43da09f920) | Momoiro Clover Z
 8 | ![Tak berjudul762A31](https://github.com/user-attachments/assets/919e2bc9-daf1-462c-9158-364431361124) | PassCode
 9 | ![Tak berjudul762A10](https://github.com/user-attachments/assets/b8518a95-212f-478b-82ec-a142067e0222) | Girls²
 ## Movies
@@ -46,15 +48,15 @@ Number | Logo | Name
 106 | ![Tak berjudul762A16](https://github.com/user-attachments/assets/93f949de-ffd3-458f-ab2f-94d66c78846c) | SCTV
 107 | ![Tak berjudul762A6](https://github.com/user-attachments/assets/a9a2f299-4f28-4a91-9592-3ebc87190a57) | Indosiar
 108 | ![17452301744151318801515076807806](https://github.com/user-attachments/assets/b92cf88f-3d07-45a2-8a8c-97a76919fcdd) | ANTV
-109 | | RCTI
+109 | ![Tak berjudul764](https://github.com/user-attachments/assets/296bae9a-0b87-48bb-aec3-32e1121620d1) | RCTI
 110 | ![Tak berjudul762A1 (1)](https://github.com/user-attachments/assets/90f29644-8827-4bad-9f8f-da7bed2b53f8) | Global TV
 111 | ![Tak berjudul762A11](https://github.com/user-attachments/assets/3096a4ce-e37a-49b8-86f7-14bdcb6e0be8) | Garuda TV
-112 | | MNCTV
+112 | ![Tak berjudul762A2](https://github.com/user-attachments/assets/f5557c9a-ad45-4b02-a1c5-7a14dc75a1ba) | MDTV
 114 | ![17452162024798232342722512428752](https://github.com/user-attachments/assets/5cea6372-3f5e-40cf-bebe-773323a57980) | Kompas TV
 115 | ![Tak berjudul762A8](https://github.com/user-attachments/assets/45887708-df5d-41fc-81f0-a4ee76a0dd57) | BTV
 116 | ![17452305837653548740391149474973](https://github.com/user-attachments/assets/92685a43-09ef-4e54-b9f8-ab5eed0b7feb) | JAKTV
 117 | ![Tak berjudul762A5](https://github.com/user-attachments/assets/28f93c7e-7c63-458a-bdd2-cd4d6b0ab9b9) | BeritaSatu
-118 | ![Tak berjudul762A2](https://github.com/user-attachments/assets/f5557c9a-ad45-4b02-a1c5-7a14dc75a1ba) | MDTV
+118 | ![Tak berjudul765](https://github.com/user-attachments/assets/1b41fa10-12c8-4fbb-82e0-1c8f61122273) | MNCTV
 132 | ![Tak berjudul762A12](https://github.com/user-attachments/assets/8255c1bb-3964-4219-a0f4-09a9896903c4) | Jawa Pos TV
 134 | ![17452305642702065172632823859049](https://github.com/user-attachments/assets/db9eda75-02f4-417b-a222-c34986abed4d) | RTV
 135 | | FOX Life´
