@@ -1,10 +1,7 @@
 # ???
-## Notes
-* ´ = Discontinued
 ## J-Pop
 Number | Logo | Name
 -- | -- | --
-0 | | Channel Info HD
 1 | ![Tak berjudul762A40](https://github.com/user-attachments/assets/6fa847d6-31e6-48e1-8b98-32849446a2ee) | Inori Minase Channel 1
 2 | ![Tak berjudul762A42](https://github.com/user-attachments/assets/2726eb18-d406-4630-95d7-8f14c97b472b) | Inori Minase Channel 2
 ## Movies
@@ -27,11 +24,14 @@ Number | Logo | Name
 24 | | Zee Bioskop
 25 | | CinemaWorld HD
 26 | | FLIK HD
-## News, International, & Oriental
+## News, International, & Religion
 Number | Logo | Name
 -- | -- | --
+37 | | Matsuri Channel
+38 | | Tawaf TV HD
+39 | | Tourou Channel
 40 | | CNN International HD
-41 | | Tourou Channel
+41 | | Rodja TV HD
 42 | ![Tak berjudul762A3](https://github.com/user-attachments/assets/794438e3-ed98-4ccd-b8df-b6bc21fd1f44) | Morning Musume
 43 | | Bloomberg Television HD
 44 | | CNA HD
@@ -54,20 +54,27 @@ Number | Logo | Name
 61 | | France 24 HD
 62 | | TVBS News HD
 63 | ![Tak berjudul762A32](https://github.com/user-attachments/assets/421266a4-4b94-438d-80dd-540f57122216) | BN Channel HD
-64 | | CNBC Asia
+64 | | CNBC Asia HD
 65 | | OMAKE CHANNEL
 66 | | Russia Today HD
 67 | | osu!news
 68 | | NHK World Premium
 69 | | TRT World
 70 | ![Tak berjudul762A5](https://github.com/user-attachments/assets/28f93c7e-7c63-458a-bdd2-cd4d6b0ab9b9) | BeritaSatu HD
-71 | | CNBC Indonesia
+71 | | CNBC Indonesia HD
 72 | ![17452167571386312826181660641900](https://github.com/user-attachments/assets/1301d208-a1ba-4ddf-bdf6-f93f1972b631) | Sindonews TV
 73 | ![Tak berjudul762A31](https://github.com/user-attachments/assets/919e2bc9-daf1-462c-9158-364431361124) | PassCode
-74 | | TBN Asia
+74 | | Phoenix InfoNews
 75 | ![Tak berjudul762A10](https://github.com/user-attachments/assets/b8518a95-212f-478b-82ec-a142067e0222) | Girls²
 76 | | TVBS Asia
 77 | | EWTN
+79 | ![Tak berjudul762A12](https://github.com/user-attachments/assets/8255c1bb-3964-4219-a0f4-09a9896903c4) | jawapos TV HD
+80 | | MQTV
+81 | | Kirei Channel
+82 | | QWER
+83 | | Al Quran Al Kareem
+84 | | TV9 Nusantara
+85 | | TVMU HD
 ## Local
 Number | Logo | Name
 -- | -- | --
@@ -75,8 +82,8 @@ Number | Logo | Name
 101 | ![Tak berjudul762A15 (1)](https://github.com/user-attachments/assets/e7e3ed66-10d9-4ba7-afc1-34e24468915e) | TVRI HD
 102 | ![Tak berjudul762A13](https://github.com/user-attachments/assets/aed4c49c-737a-4d7b-bd4e-abe0eb0407a6) | Metro TV HD
 103 | ![Tak berjudul762A20 (1)](https://github.com/user-attachments/assets/47fa7433-f87c-4ae9-9b58-a329ed2fa1ba) | tvOne HD
-104 | ![Tak berjudul762A27](https://github.com/user-attachments/assets/fbb67951-37a4-4bb7-8eb2-c70201d4ed86) | Trans TV
-105 | ![Tak berjudul762A17](https://github.com/user-attachments/assets/6a3c56c2-d656-49d5-829e-d32add527d60) | Trans 7
+104 | ![Tak berjudul762A27](https://github.com/user-attachments/assets/fbb67951-37a4-4bb7-8eb2-c70201d4ed86) | Trans TV HD
+105 | ![Tak berjudul762A17](https://github.com/user-attachments/assets/6a3c56c2-d656-49d5-829e-d32add527d60) | Trans 7 HD
 106 | ![Tak berjudul762A16](https://github.com/user-attachments/assets/93f949de-ffd3-458f-ab2f-94d66c78846c) | SCTV HD
 107 | ![Tak berjudul762A6](https://github.com/user-attachments/assets/a9a2f299-4f28-4a91-9592-3ebc87190a57) | Indosiar HD
 108 | ![17452301744151318801515076807806](https://github.com/user-attachments/assets/b92cf88f-3d07-45a2-8a8c-97a76919fcdd) | ANTV HD
@@ -97,10 +104,11 @@ Number | Logo | Name
 152 | | Animax HD
 153 | | ROCK Entertainment HD
 157 | | ROCK Action HD
+158 | | Phoenix Chinese Channel
 159 | ![Tak berjudul762A0](https://github.com/user-attachments/assets/7935f28a-ab62-47a4-a36e-3e7432dabb27) | Roblox
 160 | | Euronews HD
 161 | | KIX HD
-162 | | Warner TV
+162 | | Warner TV HD
 163 | | One HD
 164 | ![17452162320346570866441380841928](https://github.com/user-attachments/assets/2fd48bb6-ae4d-4550-a312-51d58eeebcf7) | iNews HD
 165 | | Misaki Channel
@@ -111,10 +119,12 @@ Number | Logo | Name
 ## Kids
 Number | Logo | Name
 -- | -- | --
-200 | | Nickelodeon
-201 | ![Tak berjudul762A34](https://github.com/user-attachments/assets/e3128276-5e00-4159-9500-1f18c9040858) | Cartoon Network HD
-202 | ![17452305642702065172632823859049](https://github.com/user-attachments/assets/db9eda75-02f4-417b-a222-c34986abed4d) | RTV HD
-203 | | Cartoonito HD
+198 | | Nick Jr.
+199 | | Nickelodeon
+200 | ![Tak berjudul762A34](https://github.com/user-attachments/assets/e3128276-5e00-4159-9500-1f18c9040858) | Cartoon Network HD
+201 | ![17452305642702065172632823859049](https://github.com/user-attachments/assets/db9eda75-02f4-417b-a222-c34986abed4d) | RTV HD
+202 | | Cartoonito HD
+204 | | Dreamworks HD
 ## Lifestyle
 Number | Logo | Name
 -- | -- | --
@@ -126,11 +136,35 @@ Number | Logo | Name
 -- | -- | --
 300 | | MTV Live HD
 301 | | MTV 90s HD
+## Sports
+Number | Logo | Name
+-- | -- | --
+331 | | SPOTV HD
+332 | | SPOTV 2 HD
+334 | | Fight Sports HD
+335 | | beIN Sports 1 HD
+336 | | beIN Sports 2 HD
+337 | | beIN Sports 3 HD
+338 | | beIN Sports 4 HD
+339 | | beIN Sports 5 HD
+## Knowledge
+Number | Logo | Name
+-- | -- | --
+350 | | Discovery HD
+351 | | Outdoor Channel HD
+352 | | Animal Planet HD
+353 | ![Tak berjudul762A26](https://github.com/user-attachments/assets/24c01689-1b80-4840-9a46-0db8b51bdbb6) | BBC Earth HD
+354 | | Discovery Asia HD
+355 | | CGTN Documentary HD
+356 | | History HD
+357 | | Global Trekker HD
+358 | | Love Nature 4K
+359 | | Crime Investigation HD
 ## Exclusives
 Number | Logo | Name
 -- | -- | --
-900 | | Channel Info
-998 | ![Tak berjudul762A12](https://github.com/user-attachments/assets/8255c1bb-3964-4219-a0f4-09a9896903c4) | jawapos TV HD
+900 | | Promotion Channel
+998 | | Curiosity Channel
 999 | ![Tak berjudul762A28](https://github.com/user-attachments/assets/e1e4c86b-e67e-4a67-bcad-b619ad7f7155) | osu!
 # Number Keys
 * [112](https://extendedmaster113.github.io/112)
