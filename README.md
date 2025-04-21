@@ -1,4 +1,4 @@
-# Live TV + Streaming + Data
+# Live TV + Streaming + Youtuber + Data
 ## Notes
 * ´ = Discontinued
 ## High Definition Extensions
@@ -33,11 +33,11 @@ Number | Logo | Name
 Number | Logo | Name
 -- | -- | --
 87 | ![Tak berjudul762A27](https://github.com/user-attachments/assets/fbb67951-37a4-4bb7-8eb2-c70201d4ed86) | Trans TV
-89 | ![Tak berjudul762A16](https://github.com/user-attachments/assets/93f949de-ffd3-458f-ab2f-94d66c78846c) | SCTV
-90 | ![Tak berjudul762A40](https://github.com/user-attachments/assets/6fa847d6-31e6-48e1-8b98-32849446a2ee) | Inori Minase Channel
+89 | ![Tak berjudul762A41](https://github.com/user-attachments/assets/0b3474b8-dfbf-4f25-8042-78655106794e) | Frost Diamond
+90 | ![Tak berjudul762A16](https://github.com/user-attachments/assets/93f949de-ffd3-458f-ab2f-94d66c78846c) | SCTV
 93 | | Al Quran Al Kareem
 97 | ![Tak berjudul762A20](https://github.com/user-attachments/assets/f04847af-a280-4357-8b96-25dd155909e6) | tvOne
-100 | ![Tak berjudul762A6](https://github.com/user-attachments/assets/a9a2f299-4f28-4a91-9592-3ebc87190a57) | Indosiar
+100 | ![Tak berjudul762A40](https://github.com/user-attachments/assets/6fa847d6-31e6-48e1-8b98-32849446a2ee) | Inori Minase Channel
 101 | ![Tak berjudul762A39](https://github.com/user-attachments/assets/b4d8b6f0-c433-4ddc-8b68-34d6d8b1eb2a) | SEA Today
 103 | ![Tak berjudul762A6](https://github.com/user-attachments/assets/a9a2f299-4f28-4a91-9592-3ebc87190a57) | Indosiar
 105 | ![Tak berjudul762A8](https://github.com/user-attachments/assets/45887708-df5d-41fc-81f0-a4ee76a0dd57) | BTV
