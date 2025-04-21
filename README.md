@@ -1,10 +1,10 @@
 # Live TV + Streaming + Youtuber + Data
 ## Notes
 * ´ = Discontinued
-## High Definition Extensions
+## J-Pop
 Number | Logo | Name
 -- | -- | --
-1 | ![Tak berjudul762A40](https://github.com/user-attachments/assets/6fa847d6-31e6-48e1-8b98-32849446a2ee) | Inori Minase Channel HD
+1 | ![Tak berjudul762A42](https://github.com/user-attachments/assets/2726eb18-d406-4630-95d7-8f14c97b472b) | Inori Minase Channel 2 HD
 ## Movies
 Number | Logo | Name
 -- | -- | --
@@ -36,12 +36,14 @@ Number | Logo | Name
 89 | ![Tak berjudul762A41](https://github.com/user-attachments/assets/0b3474b8-dfbf-4f25-8042-78655106794e) | Frost Diamond
 90 | ![Tak berjudul762A16](https://github.com/user-attachments/assets/93f949de-ffd3-458f-ab2f-94d66c78846c) | SCTV
 93 | | Al Quran Al Kareem
-97 | ![Tak berjudul762A20](https://github.com/user-attachments/assets/f04847af-a280-4357-8b96-25dd155909e6) | tvOne
-100 | ![Tak berjudul762A40](https://github.com/user-attachments/assets/6fa847d6-31e6-48e1-8b98-32849446a2ee) | Inori Minase Channel
-101 | ![Tak berjudul762A39](https://github.com/user-attachments/assets/b4d8b6f0-c433-4ddc-8b68-34d6d8b1eb2a) | SEA Today
+97 | ![Tak berjudul762A20 (1)](https://github.com/user-attachments/assets/47fa7433-f87c-4ae9-9b58-a329ed2fa1ba) | tvOne
+100 | ![Tak berjudul762A39](https://github.com/user-attachments/assets/b4d8b6f0-c433-4ddc-8b68-34d6d8b1eb2a) | SEA Today
+101 | ![Tak berjudul762A42](https://github.com/user-attachments/assets/98fd79a0-544b-4e35-b36e-70db8e10dc28) | Inori Minase Channel 2
+102 | ![Tak berjudul762A40](https://github.com/user-attachments/assets/6fa847d6-31e6-48e1-8b98-32849446a2ee) | Inori Minase Channel 1
 103 | ![Tak berjudul762A6](https://github.com/user-attachments/assets/a9a2f299-4f28-4a91-9592-3ebc87190a57) | Indosiar
-105 | ![Tak berjudul762A8](https://github.com/user-attachments/assets/45887708-df5d-41fc-81f0-a4ee76a0dd57) | BTV
-106 | ![17452162024798232342722512428752](https://github.com/user-attachments/assets/5cea6372-3f5e-40cf-bebe-773323a57980) | Kompas TV
+104 | ![Tak berjudul762A21 (1)](https://github.com/user-attachments/assets/9f6aa415-0554-48c6-8e5d-2f43da09f920) | Momoiro Clover Z
+105 | ![Tak berjudul762A1 (1)](https://github.com/user-attachments/assets/90f29644-8827-4bad-9f8f-da7bed2b53f8) | Global TV
+106 | ![Tak berjudul762A8](https://github.com/user-attachments/assets/45887708-df5d-41fc-81f0-a4ee76a0dd57) | BTV
 107 | ![Tak berjudul762A13](https://github.com/user-attachments/assets/aed4c49c-737a-4d7b-bd4e-abe0eb0407a6) | Metro TV
 108 | ![Tak berjudul762A31](https://github.com/user-attachments/assets/919e2bc9-daf1-462c-9158-364431361124) | PassCode
 109 | ![Tak berjudul762A10](https://github.com/user-attachments/assets/b8518a95-212f-478b-82ec-a142067e0222) | Girls²
@@ -49,11 +51,10 @@ Number | Logo | Name
 111 | ![Tak berjudul762A11](https://github.com/user-attachments/assets/3096a4ce-e37a-49b8-86f7-14bdcb6e0be8) | [Garuda TV](https://garuda.tv/live/)
 112 | ![Tak berjudul762A12](https://github.com/user-attachments/assets/8255c1bb-3964-4219-a0f4-09a9896903c4) | Jawa Pos TV
 113 | | Bloomberg TV Indonesia´
-114 | | RTV´
-115 | ![Tak berjudul762A21](https://github.com/user-attachments/assets/1b8cccb2-3556-4a06-a4fa-418e005ca9fb) | ANTV´
+114 | ![17452162024798232342722512428752](https://github.com/user-attachments/assets/5cea6372-3f5e-40cf-bebe-773323a57980) | Kompas TV
 116 | ![Tak berjudul762A2](https://github.com/user-attachments/assets/f5557c9a-ad45-4b02-a1c5-7a14dc75a1ba) | MDTV
-117 | | MYTV´
-118 | ![Tak berjudul762A15](https://github.com/user-attachments/assets/52cf2f39-ec21-4d5e-8903-70935b5a6a3a) | TVRI
+117 | | JTV SBY
+118 | ![Tak berjudul762A15 (1)](https://github.com/user-attachments/assets/e7e3ed66-10d9-4ba7-afc1-34e24468915e) | TVRI
 119 | ![Tak berjudul762A5](https://github.com/user-attachments/assets/28f93c7e-7c63-458a-bdd2-cd4d6b0ab9b9) | BeritaSatu
 135 | | FOX Life´
 136 | | Nat Geo People´
@@ -65,7 +66,6 @@ Number | Logo | Name
 150 | ![Tak berjudul762A0](https://github.com/user-attachments/assets/7935f28a-ab62-47a4-a36e-3e7432dabb27) | Roblox
 151 | | AXN
 152 | | Animax
-153 | ![Tak berjudul762A1](https://github.com/user-attachments/assets/fa1c1851-bb89-4e80-aaa2-5a019d4aac9b) | GTV
 154 | | GEM´
 155 | | FOX´
 156 | | FOX Crime´
