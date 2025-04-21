@@ -14,11 +14,10 @@ Number | Logo | Name
 ## Movies
 Number | Logo | Name
 -- | -- | --
-19 | ![Studio Universal](https://images.indihometv.com/assets/88_STUDIOUNIVERSAL_2025_03_17_14_57_23.png) | Studio Universal
-20 | | IMC
-21 | | Galaxy Premium
-22 | | Galaxy
-23 | | FOX Movies´
+26 | | HITS Movies
+27 | | FOX Movies´
+28 | | FOX Family Movies´
+29 | | FOX Action Movies´
 ## International
 Number | Logo | Name
 -- | -- | --
@@ -40,6 +39,7 @@ Number | Logo | Name
 ## Local
 Number | Logo | Name
 -- | -- | --
+100 | ![Studio Universal](https://images.indihometv.com/assets/88_STUDIOUNIVERSAL_2025_03_17_14_57_23.png) | Studio Universal
 101 | ![Tak berjudul762A15 (1)](https://github.com/user-attachments/assets/e7e3ed66-10d9-4ba7-afc1-34e24468915e) | TVRI
 102 | ![Tak berjudul762A13](https://github.com/user-attachments/assets/aed4c49c-737a-4d7b-bd4e-abe0eb0407a6) | Metro TV
 103 | ![Tak berjudul762A20 (1)](https://github.com/user-attachments/assets/47fa7433-f87c-4ae9-9b58-a329ed2fa1ba) | tvOne
@@ -57,33 +57,40 @@ Number | Logo | Name
 116 | ![17452305837653548740391149474973](https://github.com/user-attachments/assets/92685a43-09ef-4e54-b9f8-ab5eed0b7feb) | JAKTV
 117 | ![Tak berjudul762A5](https://github.com/user-attachments/assets/28f93c7e-7c63-458a-bdd2-cd4d6b0ab9b9) | BeritaSatu
 118 | ![Tak berjudul765](https://github.com/user-attachments/assets/1b41fa10-12c8-4fbb-82e0-1c8f61122273) | MNCTV
+130 | | E!´
+131 | | Diva Universal´
 132 | ![Tak berjudul762A12](https://github.com/user-attachments/assets/8255c1bb-3964-4219-a0f4-09a9896903c4) | Jawa Pos TV
+133 | | Syfy Channel´
 134 | ![17452305642702065172632823859049](https://github.com/user-attachments/assets/db9eda75-02f4-417b-a222-c34986abed4d) | RTV
 135 | | FOX Life´
 136 | | Nat Geo People´
 137 | ![17452167571386312826181660641900](https://github.com/user-attachments/assets/1301d208-a1ba-4ddf-bdf6-f93f1972b631) | Sindonews TV
+138 | | Universal Channel´
 139 | ![17452168421884314726465276456979](https://github.com/user-attachments/assets/67f1ce15-aa7e-4076-b4b0-25a6b9ee6f89) | tvMu
+149 | ![Tak berjudul762A0](https://github.com/user-attachments/assets/7935f28a-ab62-47a4-a36e-3e7432dabb27) | Roblox
 ## Entertainment
 Number | Logo | Name
 -- | -- | --
-150 | ![Tak berjudul762A0](https://github.com/user-attachments/assets/7935f28a-ab62-47a4-a36e-3e7432dabb27) | Roblox
+150 | | Magna Channel
 151 | | AXN
 152 | | Animax
+153 | | TV Asahi
 154 | | GEM´
 155 | | FOX´
 156 | | FOX Crime´
 157 | | ROCK Extreme/ROCK Action
-158 | | FOX Family Movies´
+158 | ![Tak berjudul762A9](https://github.com/user-attachments/assets/26dddc38-df61-4e6f-9b63-bc371a71acc7) | Nusantara TV
 159 | | FX´
-160 | | HITS
+160 | | ROCK Entertainment
 161 | | KIX
-162 | ![Tak berjudul762A24](https://github.com/user-attachments/assets/64038986-edf4-4b1a-b56c-ac04424d972c) | JakTV
-163 | | Warner TV
-164 | | One
-165 | ![17452162320346570866441380841928](https://github.com/user-attachments/assets/2fd48bb6-ae4d-4550-a312-51d58eeebcf7) | iNews
+162 | | Warner TV
+163 | | One
+164 | ![17452162320346570866441380841928](https://github.com/user-attachments/assets/2fd48bb6-ae4d-4550-a312-51d58eeebcf7) | iNews
+165 | | Misaki Channel
 166 | | tvN
 167 | | Lifetime
-168 | ![Tak berjudul762A9](https://github.com/user-attachments/assets/26dddc38-df61-4e6f-9b63-bc371a71acc7) | Nusantara TV
+168 | | ![Tak berjudul762A37](https://github.com/user-attachments/assets/a59134d8-3dc0-4307-887d-6382a339d915) | Unicode
+169 | | HITS
 ## Kids
 Number | Logo | Name
 -- | -- | --
