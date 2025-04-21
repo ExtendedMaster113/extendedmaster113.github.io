@@ -1,4 +1,6 @@
 # Live TV + Streaming + Data
+## Notes
+* ´ = Discontinued
 ## High Definition Extensions
 Number | Logo | Name
 -- | -- | --
@@ -10,11 +12,22 @@ Number | Logo | Name
 21 | | Galaxy Premium
 22 | | Galaxy
 23 | ![Studio Universal](https://images.indihometv.com/assets/88_STUDIOUNIVERSAL_2025_03_17_14_57_23.png) | Studio Universal
-39 | ![Tak berjudul762A32](https://github.com/user-attachments/assets/421266a4-4b94-438d-80dd-540f57122216) | BN Channel
-## Kids
+## International
 Number | Logo | Name
 -- | -- | --
-40 | ![Tak berjudul762A34](https://github.com/user-attachments/assets/e3128276-5e00-4159-9500-1f18c9040858) | Cartoon Network
+40 | | Konichiwa Channel
+41 | | Tourou Channel
+42 | | WakuWaku Japan´
+43 | | Bloomberg Television
+44 | | NHK World Premium
+45 | | NHK World Japan
+46 | | Kone News TV
+47 | | KBS World
+48 | | RAI Italia
+49 | | TVRI World
+50 | | TV5 Monde
+51 | | DW English
+52 | | Arirang
 ## Local
 Number | Logo | Name
 -- | -- | --
@@ -32,27 +45,36 @@ Number | Logo | Name
 109 | ![Tak berjudul762A27](https://github.com/user-attachments/assets/fbb67951-37a4-4bb7-8eb2-c70201d4ed86) | Trans TV
 110 | ![Tak berjudul762A16](https://github.com/user-attachments/assets/93f949de-ffd3-458f-ab2f-94d66c78846c) | SCTV
 111 | ![Tak berjudul762A6](https://github.com/user-attachments/assets/a9a2f299-4f28-4a91-9592-3ebc87190a57) | Indosiar
+112 | | Ryukent TV
 113 | ![Tak berjudul762A24](https://github.com/user-attachments/assets/64038986-edf4-4b1a-b56c-ac04424d972c) | JakTV
+114 | | RTV´
 115 | ![Tak berjudul762A21](https://github.com/user-attachments/assets/1b8cccb2-3556-4a06-a4fa-418e005ca9fb) | ANTV
 116 | ![Tak berjudul762A2](https://github.com/user-attachments/assets/f5557c9a-ad45-4b02-a1c5-7a14dc75a1ba) | MDTV
-117 | ![Tak berjudul762A11](https://github.com/user-attachments/assets/3096a4ce-e37a-49b8-86f7-14bdcb6e0be8)| [Garuda TV](https://garuda.tv/live/)
+117 | | MYTV´
 118 | ![Tak berjudul762A15](https://github.com/user-attachments/assets/52cf2f39-ec21-4d5e-8903-70935b5a6a3a) | TVRI
 119 | ![Tak berjudul762A5](https://github.com/user-attachments/assets/28f93c7e-7c63-458a-bdd2-cd4d6b0ab9b9) | BeritaSatu
 137 | ![17452167571386312826181660641900](https://github.com/user-attachments/assets/1301d208-a1ba-4ddf-bdf6-f93f1972b631) | Sindonews TV
 139 | ![17452168421884314726465276456979](https://github.com/user-attachments/assets/67f1ce15-aa7e-4076-b4b0-25a6b9ee6f89) | tvMu
 140 | | Top News
+145 | ![Tak berjudul762A11](https://github.com/user-attachments/assets/3096a4ce-e37a-49b8-86f7-14bdcb6e0be8) | [Garuda TV](https://garuda.tv/live/)
 ## Entertainment
 Number | Logo | Name
 -- | -- | --
 150 | ![Tak berjudul762A0](https://github.com/user-attachments/assets/7935f28a-ab62-47a4-a36e-3e7432dabb27) | Roblox
 151 | ![Tak berjudul762A1](https://github.com/user-attachments/assets/fa1c1851-bb89-4e80-aaa2-5a019d4aac9b) | GTV
 165 | ![17452162320346570866441380841928](https://github.com/user-attachments/assets/2fd48bb6-ae4d-4550-a312-51d58eeebcf7) | iNews
+## Kids
+Number | Logo | Name
+-- | -- | --
+220 | | Nickelodeon
+221 | ![Tak berjudul762A34](https://github.com/user-attachments/assets/e3128276-5e00-4159-9500-1f18c9040858) | Cartoon Network
 ## News
 Number | Logo | Name
 -- | -- | --
 240 | ![Tak berjudul762A7](https://github.com/user-attachments/assets/42bd392e-b11d-4293-8adf-3d32b68681b4) | BBC World News
-241 | | CNN International
-242 | | osu!news
+241 | ![1745219933723848817911596606863](https://github.com/user-attachments/assets/9560b569-4511-463e-bd10-3ab6c00477c6) | CNN International
+242 | ![Tak berjudul762A32](https://github.com/user-attachments/assets/421266a4-4b94-438d-80dd-540f57122216) | BN Channel´
+243 | | osu!news
 ## Exclusives
 Number | Logo | Name
 -- | -- | --
