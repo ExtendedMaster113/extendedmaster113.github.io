@@ -14,32 +14,45 @@ Number | Logo | Name
 ## Movies
 Number | Logo | Name
 -- | -- | --
-26 | | HITS Movies
-27 | | FOX Movies´
-28 | | FOX Family Movies´
-29 | | FOX Action Movies´
+10 | ![Studio Universal](https://images.indihometv.com/assets/88_STUDIOUNIVERSAL_2025_03_17_14_57_23.png) | Studio Universal HD
+11 | | HBO HD
+12 | | HBO Signature HD
+13 | | Cinemax HD
+14 | | HBO Hits HD
+15 | | HBO Family HD
+16 | | HITS Movies HD
+17 | | Galaxy Premium HD
+18 | | Galaxy HD
+19 | | IMC HD
+20 | | Thrill
+21 | | Celestial Movies HD
+22 | | Catchplay - Preview
+23 | | tvN Movies HD
+24 | | Zee Bioskop
+25 | | CinemaWorld HD
+26 | | FLIK HD
 ## International
 Number | Logo | Name
 -- | -- | --
 40 | | Konichiwa Channel
 41 | | Tourou Channel
-42 | | WakuWaku Japan´
-43 | | Bloomberg Television
+43 | | Bloomberg Television HD
 44 | | NHK World Premium
-45 | | NHK World Japan
-46 | | Sky News´
-47 | | KBS World
+45 | | NHK World Japan HD
+47 | | KBS World HD
 48 | | RAI Italia
-49 | | TVRI World
-50 | | TV5 Monde
-51 | | DW English
-52 | | Arirang
+49 | | TVRI World HD
+50 | | TV5 Monde HD
+51 | | ABC Austalia HD
+52 | | Arirang HD
+53 | | CGTN HD
 55 | ![Tak berjudul762A38](https://github.com/user-attachments/assets/a5a40736-b084-4983-ba0f-a0ac9a7ec410) | Hello! Project Station
-56 | ![Tak berjudul762A39](https://github.com/user-attachments/assets/b4d8b6f0-c433-4ddc-8b68-34d6d8b1eb2a) | SEA Today
+56 | ![Tak berjudul762A39](https://github.com/user-attachments/assets/b4d8b6f0-c433-4ddc-8b68-34d6d8b1eb2a) | SEA Today HD
+57 | | DW English HD
 ## Local
 Number | Logo | Name
 -- | -- | --
-100 | ![Studio Universal](https://images.indihometv.com/assets/88_STUDIOUNIVERSAL_2025_03_17_14_57_23.png) | Studio Universal
+100 | | Channel List
 101 | ![Tak berjudul762A15 (1)](https://github.com/user-attachments/assets/e7e3ed66-10d9-4ba7-afc1-34e24468915e) | TVRI
 102 | ![Tak berjudul762A13](https://github.com/user-attachments/assets/aed4c49c-737a-4d7b-bd4e-abe0eb0407a6) | Metro TV
 103 | ![Tak berjudul762A20 (1)](https://github.com/user-attachments/assets/47fa7433-f87c-4ae9-9b58-a329ed2fa1ba) | tvOne
@@ -57,16 +70,11 @@ Number | Logo | Name
 116 | ![17452305837653548740391149474973](https://github.com/user-attachments/assets/92685a43-09ef-4e54-b9f8-ab5eed0b7feb) | JAKTV
 117 | ![Tak berjudul762A5](https://github.com/user-attachments/assets/28f93c7e-7c63-458a-bdd2-cd4d6b0ab9b9) | BeritaSatu
 118 | ![Tak berjudul765](https://github.com/user-attachments/assets/1b41fa10-12c8-4fbb-82e0-1c8f61122273) | MNCTV
-130 | | E!´
-131 | | Diva Universal´
 132 | ![Tak berjudul762A12](https://github.com/user-attachments/assets/8255c1bb-3964-4219-a0f4-09a9896903c4) | Jawa Pos TV
-133 | | Syfy Channel´
+133 | | MYTV´
 134 | ![17452305642702065172632823859049](https://github.com/user-attachments/assets/db9eda75-02f4-417b-a222-c34986abed4d) | RTV
-135 | | FOX Life´
-136 | | Nat Geo People´
 137 | ![17452167571386312826181660641900](https://github.com/user-attachments/assets/1301d208-a1ba-4ddf-bdf6-f93f1972b631) | Sindonews TV
-138 | | Universal Channel´
-139 | ![17452168421884314726465276456979](https://github.com/user-attachments/assets/67f1ce15-aa7e-4076-b4b0-25a6b9ee6f89) | tvMu
+145 | ![17452168421884314726465276456979](https://github.com/user-attachments/assets/67f1ce15-aa7e-4076-b4b0-25a6b9ee6f89) | tvMu
 149 | ![Tak berjudul762A0](https://github.com/user-attachments/assets/7935f28a-ab62-47a4-a36e-3e7432dabb27) | Roblox
 ## Entertainment
 Number | Logo | Name
@@ -74,13 +82,8 @@ Number | Logo | Name
 150 | | Magna Channel
 151 | | AXN
 152 | | Animax
-153 | | TV Asahi
-154 | | GEM´
-155 | | FOX´
-156 | | FOX Crime´
+153 | ![Tak berjudul762A9](https://github.com/user-attachments/assets/26dddc38-df61-4e6f-9b63-bc371a71acc7) | Nusantara TV
 157 | | ROCK Extreme/ROCK Action
-158 | ![Tak berjudul762A9](https://github.com/user-attachments/assets/26dddc38-df61-4e6f-9b63-bc371a71acc7) | Nusantara TV
-159 | | FX´
 160 | | ROCK Entertainment
 161 | | KIX
 162 | | Warner TV
@@ -89,20 +92,26 @@ Number | Logo | Name
 165 | | Misaki Channel
 166 | | tvN
 167 | | Lifetime
-168 | | ![Tak berjudul762A37](https://github.com/user-attachments/assets/a59134d8-3dc0-4307-887d-6382a339d915) | Unicode
+168 | ![Tak berjudul762A37](https://github.com/user-attachments/assets/a59134d8-3dc0-4307-887d-6382a339d915) | Unicode
 169 | | HITS
 ## Kids
 Number | Logo | Name
 -- | -- | --
-220 | | Nickelodeon
-221 | ![Tak berjudul762A34](https://github.com/user-attachments/assets/e3128276-5e00-4159-9500-1f18c9040858) | Cartoon Network
+200 | | Nickelodeon
+201 | ![Tak berjudul762A34](https://github.com/user-attachments/assets/e3128276-5e00-4159-9500-1f18c9040858) | Cartoon Network
 ## News
 Number | Logo | Name
 -- | -- | --
+237 | Euronews
+238 | CNA
+239 | Al Jazzera
 240 | ![Tak berjudul762A7](https://github.com/user-attachments/assets/42bd392e-b11d-4293-8adf-3d32b68681b4) | BBC World News
 241 | ![1745219933723848817911596606863](https://github.com/user-attachments/assets/9560b569-4511-463e-bd10-3ab6c00477c6) | CNN International
-242 | ![Tak berjudul762A32](https://github.com/user-attachments/assets/421266a4-4b94-438d-80dd-540f57122216) | BN Channel´
-243 | | osu!news
+242 | ![Tak berjudul762A32](https://github.com/user-attachments/assets/421266a4-4b94-438d-80dd-540f57122216) | BN Channel
+243 | | RT
+244 | | CNN Indonesia
+245 | | CNBC Indonesia
+246 | | osu!news
 ## Exclusives
 Number | Logo | Name
 -- | -- | --
