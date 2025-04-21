@@ -102,15 +102,15 @@ Number | Logo | Name
 ## News
 Number | Logo | Name
 -- | -- | --
-237 | Euronews
-238 | CNA
-239 | Al Jazzera
+237 | | Euronews
+238 | | CNN Indonesia
+239 | | Al Jazzera
 240 | ![Tak berjudul762A7](https://github.com/user-attachments/assets/42bd392e-b11d-4293-8adf-3d32b68681b4) | BBC World News
 241 | ![1745219933723848817911596606863](https://github.com/user-attachments/assets/9560b569-4511-463e-bd10-3ab6c00477c6) | CNN International
 242 | ![Tak berjudul762A32](https://github.com/user-attachments/assets/421266a4-4b94-438d-80dd-540f57122216) | BN Channel
 243 | | RT
-244 | | CNN Indonesia
-245 | | CNBC Indonesia
+244 | | CNBC Asia
+245 | | CNA
 246 | | osu!news
 ## Exclusives
 Number | Logo | Name
