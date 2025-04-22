@@ -1,7 +1,3 @@
-# J-Pop
-Number | Icon | Name
--- | -- | --
-1660 | ![Tak berjudul762A42](https://github.com/user-attachments/assets/2726eb18-d406-4630-95d7-8f14c97b472b) | Inori Minase Ch.2 (now Inori Minase)
 # Number Keys
 * [112](https://extendedmaster113.github.io/112)
 * [2013](https://extendedmaster113.github.io/2013)
