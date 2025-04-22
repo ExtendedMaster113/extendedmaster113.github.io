@@ -1,8 +1,7 @@
 # J-Pop
 Number | Icon | Name
 -- | -- | --
-1661 | ![Tak berjudul762A40](https://github.com/user-attachments/assets/6fa847d6-31e6-48e1-8b98-32849446a2ee) | Inori Minase Channel 1
-1662 | ![Tak berjudul762A42](https://github.com/user-attachments/assets/2726eb18-d406-4630-95d7-8f14c97b472b) | Inori Minase Channel 2
+1660 | ![Tak berjudul762A42](https://github.com/user-attachments/assets/2726eb18-d406-4630-95d7-8f14c97b472b) | Inori Minase Ch.2 (now Inori Minase)
 # Number Keys
 * [112](https://extendedmaster113.github.io/112)
 * [2013](https://extendedmaster113.github.io/2013)
