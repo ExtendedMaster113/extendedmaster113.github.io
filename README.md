@@ -1,5 +1,5 @@
 # Number Keys
-* [112](https://extendedmaster113.github.io/112)
+* [112](https://extendedmaster113.github.io/L112)
 * [2013](https://extendedmaster113.github.io/2013)
 * [2014](https://extendedmaster113.github.io/2014)
 * [2015](https://extendedmaster113.github.io/2015)
